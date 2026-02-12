@@ -1,4 +1,4 @@
-package java.oppg1;
+package oppg1;
 
 import java.util.EmptyStackException;
 

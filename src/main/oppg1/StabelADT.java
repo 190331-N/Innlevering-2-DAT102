@@ -1,4 +1,4 @@
-package java.oppg1;
+package oppg1;
 
 public interface StabelADT<T> {
     void push(T value);

@@ -1,4 +1,4 @@
-package java.oppg1;
+package oppg1;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
