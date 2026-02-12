@@ -5,14 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="699323b9-605d-4495-8510-024c8154909a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oppg1/LenketStabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oppg1/ParantesSjekker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oppg1/StabelADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/oppg1/ParantesSjekkerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Innlevering-2-DAT102.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Innlevering-2-DAT102.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ParantesSjekker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParantesSjekker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParantesSjekker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParantesSjekkerTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,10 +73,16 @@
 <<<<<<< Updated upstream
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.All in Innlevering-2-DAT102.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -72,6 +92,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
 =======
@@ -92,7 +115,38 @@
 =======
 >>>>>>> Stashed changes
   }
+<<<<<<< Updated upstream
 }</component>
+=======
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Github programering\Innlevering-2-DAT102\src\main\java" />
+      <recent name="C:\Github programering\Innlevering-2-DAT102\src\test\java" />
+      <recent name="C:\Github programering\Innlevering-2-DAT102\src\main" />
+      <recent name="C:\Github programering\Innlevering-2-DAT102\src\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="oppg1" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in Innlevering-2-DAT102" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Innlevering-2-DAT102" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Innlevering-2-DAT102" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> Stashed changes
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -111,12 +165,16 @@
       <workItem from="1770818877536" duration="24000" />
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <workItem from="1770888862120" duration="1203000" />
 =======
       <workItem from="1770818962572" duration="797000" />
 >>>>>>> Stashed changes
 =======
       <workItem from="1770818962572" duration="797000" />
+>>>>>>> Stashed changes
+=======
+      <workItem from="1770888862120" duration="4795000" />
 >>>>>>> Stashed changes
     </task>
     <servers />
