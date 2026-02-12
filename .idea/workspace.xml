@@ -23,12 +23,21 @@
     &quot;assignee&quot;: &quot;190331-N&quot;
   }
 }</component>
+<<<<<<< Updated upstream
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/190331-N/Innlevering-2-DAT102.git",
     "accountId": "bdd46657-de06-4906-944b-a72787b34ce0"
   }
 }]]></component>
+=======
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/190331-N/Innlevering-2-DAT102.git&quot;,
+    &quot;accountId&quot;: &quot;6af0cc6d-e268-46db-8704-3aa7fb45b84a&quot;
+  }
+}</component>
+>>>>>>> Stashed changes
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -37,6 +46,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -54,8 +64,20 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+>>>>>>> Stashed changes
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,7 +94,11 @@
       <option name="presentableId" value="Default" />
       <updated>1770818876322</updated>
       <workItem from="1770818877536" duration="24000" />
+<<<<<<< Updated upstream
       <workItem from="1770888862120" duration="1203000" />
+=======
+      <workItem from="1770818962572" duration="797000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
