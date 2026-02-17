@@ -18,6 +18,7 @@ public class FletteSortering {
     private static <T extends Comparable<? super T>> void flettesortering(T[] a, T[] tempTab, int forste, int siste) {
 
         if (forste >= siste) {
+            return;
         }
         int midten = (forste+siste)/2;
         flettesortering(a, tempTab, forste, midten);
