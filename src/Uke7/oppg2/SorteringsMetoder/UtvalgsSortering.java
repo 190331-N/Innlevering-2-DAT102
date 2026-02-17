@@ -1,6 +1,6 @@
 package Uke7.oppg2.SorteringsMetoder;
 
-public class utvalgsSortering {
+public class UtvalgsSortering {
     public static <T extends Comparable<? super T>> void utvalgssortering(T[] a, int n) {
         for (int i = 0; i < n - 1; i++) {
             int minIndex = i;

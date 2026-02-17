@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="699323b9-605d-4495-8510-024c8154909a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Uke7/oppg2/Tester/InnsettingMetodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uke7/oppg2/Tester/UtvalgssorteringsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uke7/oppg2/Tester/InnsettingMetodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uke7/oppg2/Tester/InnsettingMetodeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
     "Application.Innsettingsmetode.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
     "JUnit.All in Innlevering-2-DAT102.executor": "Run",
+    "JUnit.InnsettingMetodeTest.executor": "Run",
     "JUnit.ParentesSjekkerTest.executor": "Run",
     "JUnit.oppg1 in Innlevering-2-DAT102.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -111,11 +113,26 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.InnsettingMetodeTest">
     <configuration name="All in Innlevering-2-DAT102" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Innlevering-2-DAT102" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InnsettingMetodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Innlevering-2-DAT102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Uke7.oppg2.Tester.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Uke7.oppg2.Tester" />
+      <option name="MAIN_CLASS_NAME" value="Uke7.oppg2.Tester.InnsettingMetodeTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,6 +153,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.InnsettingMetodeTest" />
         <item itemvalue="JUnit.oppg1 in Innlevering-2-DAT102" />
         <item itemvalue="JUnit.All in Innlevering-2-DAT102" />
       </list>
