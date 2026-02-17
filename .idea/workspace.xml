@@ -6,13 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="699323b9-605d-4495-8510-024c8154909a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/Innlevering-2-DAT102.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Innlevering-2-DAT102.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_jupiter1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oppg1/LenketStabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/oppg1/LenketStabel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oppg1/ParantesSjekker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/oppg1/ParantesSjekker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oppg1/StabelADT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/oppg1/StabelADT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/oppg1/ParantesSjekkerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/oppg1/ParantesSjekkerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uke6/oppg1/LenketStabel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uke6/oppg1/ParantesSjekker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uke6/oppg1/ParantesSjekkerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uke6/oppg1/StabelADT.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +39,24 @@
   }
 }</component>
   <component name="McpProjectServerCommands">
-    <commands />
-    <urls />
+    <McpServerCommand sourceId="UserConfigurationSource">
+      <option name="allowedToolsNames" />
+      <option name="enabled" value="true" />
+      <option name="name" value="" />
+      <option name="programPath" value="" />
+      <option name="arguments" value="" />
+      <option name="workingDirectory" value="" />
+      <envs />
+    </McpServerCommand>
+    <McpServerCommand sourceId="UserConfigurationSource">
+      <option name="allowedToolsNames" />
+      <option name="enabled" value="true" />
+      <option name="name" value="" />
+      <option name="programPath" value="" />
+      <option name="arguments" value="" />
+      <option name="workingDirectory" value="" />
+      <envs />
+    </McpServerCommand>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -69,7 +82,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Github programering/Innlevering-2-DAT102",
+    "last_opened_file_path": "C:/Users/hansa/OneDrive/Dokumenter/Skule/HVL/dat-102/Innlevering-2-DAT102/src/Uke6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,6 +96,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hansa\OneDrive\Dokumenter\Skule\HVL\dat-102\Innlevering-2-DAT102\src\Uke6" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Github programering\Innlevering-2-DAT102\src\main\java" />
       <recent name="C:\Github programering\Innlevering-2-DAT102\src\test\java" />
@@ -128,8 +144,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28539.33" />
       </set>
     </attachedChunks>
   </component>
