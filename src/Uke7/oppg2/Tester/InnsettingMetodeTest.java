@@ -1,6 +1,8 @@
 package Uke7.oppg2.Tester;
 
+import Uke7.oppg2.SorteringsMetoder.FletteSortering;
 import Uke7.oppg2.SorteringsMetoder.Innsettingsmetode;
+import Uke7.oppg2.SorteringsMetoder.KvikksSortering;
 import Uke7.oppg2.SorteringsMetoder.UtvalgsSortering;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -25,6 +27,18 @@ public class InnsettingMetodeTest {
     @Test
     void testUtvalgssortering() {
         UtvalgsSortering.utvalgssortering(a);
+        assertTrue(erSortert(a));
+    }
+
+    @Test
+    void testKvikksortering() {
+        KvikksSortering.kvikksorter(a);
+        assertTrue(erSortert(a));
+    }
+
+    @Test
+    void testFlettesortering() {
+        FletteSortering.flettesortering(a);
         assertTrue(erSortert(a));
     }
 
