@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="699323b9-605d-4495-8510-024c8154909a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Uke7/oppg1/SorteringVedInnsettingToOgTo/SorteringVedInnsettingToOgTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uke7/oppg1/SorteringVedInnsettingToOgTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Uke7/oppg2/SorteringsMetoder/Innsettingsmetode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Innsettingsmetode.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
     "JUnit.All in Innlevering-2-DAT102.executor": "Run",
     "JUnit.ParentesSjekkerTest.executor": "Run",
@@ -110,7 +112,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in Innlevering-2-DAT102">
+  <component name="RunManager">
     <configuration name="All in Innlevering-2-DAT102" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Innlevering-2-DAT102" />
       <option name="PACKAGE_NAME" value="" />
