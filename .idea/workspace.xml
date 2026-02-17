@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="699323b9-605d-4495-8510-024c8154909a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uke7/oppg1/SorteringVedInnsettingToOgTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uke7/oppg1/SorteringVedInnsettingToOgTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Innlevering-2-DAT102/Uke7/oppg2/SorteringsMetoder/KvikksSortering.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Innlevering-2-DAT102/Uke7/oppg2/SorteringsMetoder/KvikksSortering.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +155,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnsettingMetodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SorteringsMetoderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Innlevering-2-DAT102" />
       <extension name="coverage">
         <pattern>
@@ -164,13 +164,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Uke7.oppg2.Tester" />
-      <option name="MAIN_CLASS_NAME" value="Uke7.oppg2.Tester.InnsettingMetodeTest" />
+      <option name="MAIN_CLASS_NAME" value="Uke7.oppg2.Tester.SorteringsMetoderTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnsettingMetodeTest.testUtvalgssortering" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SorteringsMetoderTest.testUtvalgssortering" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Innlevering-2-DAT102" />
       <extension name="coverage">
         <pattern>
@@ -179,7 +179,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Uke7.oppg2.Tester" />
-      <option name="MAIN_CLASS_NAME" value="Uke7.oppg2.Tester.InnsettingMetodeTest" />
+      <option name="MAIN_CLASS_NAME" value="Uke7.oppg2.Tester.SorteringsMetoderTest" />
       <option name="METHOD_NAME" value="testUtvalgssortering" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -188,10 +188,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.InnsettingMetodeTest" />
+        <item itemvalue="JUnit.SorteringsMetoderTest" />
         <item itemvalue="Application.KvikksSortering" />
         <item itemvalue="Application.FletteSortering" />
-        <item itemvalue="JUnit.InnsettingMetodeTest.testUtvalgssortering" />
+        <item itemvalue="JUnit.SorteringsMetoderTest.testUtvalgssortering" />
         <item itemvalue="JUnit.All in Innlevering-2-DAT102" />
       </list>
     </recent_temporary>
