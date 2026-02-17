@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="699323b9-605d-4495-8510-024c8154909a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Innlevering-2-DAT102.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Innlevering-2-DAT102.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uke6/oppg1/LenketStabel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uke6/oppg1/ParantesSjekker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uke6/oppg1/ParantesSjekkerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uke6/oppg1/StabelADT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +67,8 @@
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "true",
     "JUnit.All in Innlevering-2-DAT102.executor": "Run",
+    "JUnit.ParentesSjekkerTest.executor": "Run",
+    "JUnit.oppg1 in Innlevering-2-DAT102.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "true",
@@ -88,7 +87,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
@@ -111,7 +110,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.oppg1 in Innlevering-2-DAT102">
+  <component name="RunManager">
     <configuration name="All in Innlevering-2-DAT102" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Innlevering-2-DAT102" />
       <option name="PACKAGE_NAME" value="" />
