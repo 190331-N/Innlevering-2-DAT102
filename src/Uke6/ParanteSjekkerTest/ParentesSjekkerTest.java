@@ -1,6 +1,6 @@
 package Uke6.ParanteSjekkerTest;
 
-import Uke6.ParanteSjekker.ParentesSjekker;
+import Uke6.impl.ParentesSjekker;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

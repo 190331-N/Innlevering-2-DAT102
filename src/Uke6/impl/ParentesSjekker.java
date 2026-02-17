@@ -1,4 +1,4 @@
-package Uke6.ParanteSjekker;
+package Uke6.impl;
 
 import java.util.Stack;
 
