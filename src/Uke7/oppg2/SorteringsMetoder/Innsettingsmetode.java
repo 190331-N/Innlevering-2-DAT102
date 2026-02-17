@@ -20,7 +20,6 @@ public class Innsettingsmetode {
         }
     }
     public static Integer[] tilfeldigTabell() {
-        int i1 = 1;
         Random tilfeldig = new Random(5);
         int n = 50000;
         Integer[] tabell = new Integer[n];
@@ -31,7 +30,7 @@ public class Innsettingsmetode {
         return tabell;
     }
 
-    public static long målTid(Runnable r) {
+    public static long malTid(Runnable r) {
         long start = System.nanoTime();
         r.run();
         long slutt = System.nanoTime();
@@ -42,7 +41,7 @@ public class Innsettingsmetode {
         long total = 0;
         int n = 10;
         for (int i = 0; i < n; i++) {
-            long tid = målTid(() -> sorterVedInnsetting(tilfeldigTabell()));
+            long tid = malTid(() -> sorterVedInnsetting(tilfeldigTabell()));
             System.out.println("Tid: " + (tid / 1_000_000) + " ms");
             total+=tid;
         }

@@ -30,7 +30,6 @@ public class UtvalgsSortering {
         a[j] = temp;
     }
     public static Integer[] tilfeldigTabell() {
-        int i1 = 1;
         Random tilfeldig = new Random(5);
         int n = 50000;
         Integer[] tabell = new Integer[n];
@@ -41,7 +40,7 @@ public class UtvalgsSortering {
         return tabell;
     }
 
-    public static long målTid(Runnable r) {
+    public static long malTid(Runnable r) {
         long start = System.nanoTime();
         r.run();
         long slutt = System.nanoTime();
@@ -52,7 +51,7 @@ public class UtvalgsSortering {
         long total = 0;
         int n = 10;
         for (int i = 0; i < n; i++) {
-            long tid = målTid(() -> utvalgssortering(tilfeldigTabell()));
+            long tid = malTid(() -> utvalgssortering(tilfeldigTabell()));
             System.out.println("Tid: " + (tid / 1_000_000) + " ms");
             total+=tid;
         }
