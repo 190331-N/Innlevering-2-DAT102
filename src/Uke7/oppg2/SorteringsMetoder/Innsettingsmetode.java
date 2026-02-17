@@ -31,11 +31,6 @@ public class Innsettingsmetode {
         return tabell;
     }
 
-    public static void skrivUt(Integer[] tab){
-        for (int tabell : tab) {
-            System.out.println(tabell);
-        }
-    }
     public static long målTid(Runnable r) {
         long start = System.nanoTime();
         r.run();
