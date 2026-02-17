@@ -1,9 +1,9 @@
-package Uke7.oppg1.SorteringVedInnsettingToOgTo;
+package Uke7.oppg1;
 
 import java.util.Random;
 
 public class SorteringVedInnsettingToOgTo {
-    
+
     public static <T extends Comparable<? super T>> void flyttMinstForst(T[] a) {
         int minIndex = 0;
         for (int i = 1; i < a.length; i++) {

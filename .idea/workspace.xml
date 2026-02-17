@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="699323b9-605d-4495-8510-024c8154909a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Innlevering-2-DAT102/Uke6/adt/StabelADT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Innlevering-2-DAT102/Uke6/impl/LenketStabel$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Innlevering-2-DAT102/Uke6/impl/LenketStabel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Innlevering-2-DAT102/Uke6/ParanteSjekker/ParentesSjekker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Innlevering-2-DAT102/Uke6/impl/ParentesSjekker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Innlevering-2-DAT102/Uke6/ParanteSjekkerTest/ParentesSjekkerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Innlevering-2-DAT102/Uke6/ParanteSjekkerTest/ParentesSjekkerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uke6/adt/StabelADT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uke6/adt/StabelADT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Uke7/oppg1/SorteringVedInnsettingToOgTo/SorteringVedInnsettingToOgTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uke7/oppg1/SorteringVedInnsettingToOgTo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
