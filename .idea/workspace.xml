@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="699323b9-605d-4495-8510-024c8154909a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Uke7/oppg2/SorteringsMetoder/FletteSortering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uke7/oppg2/SorteringsMetoder/FletteSortering.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Uke7/oppg2/SorteringsMetoder/Innsettingsmetode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Uke7/oppg2/SorteringsMetoder/Innsettingsmetode.java" afterDir="false" />
-    </list>
+    <list default="true" id="699323b9-605d-4495-8510-024c8154909a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
